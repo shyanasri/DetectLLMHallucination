@@ -65,7 +65,7 @@ Test AUROC (Linear Probe): 0.661
 
 ---
 
-## 📝 Notes
+## Notes
 
 - Classifiers 
 
