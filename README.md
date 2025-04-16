@@ -47,7 +47,7 @@ You will also need a HuggingFace read token to download the Llama 2 and BLUERT m
 
 ---
 
-## 📊 Code Outputs
+## Code Outputs
 
 This project generates the following files and directories during execution:
 
@@ -55,7 +55,7 @@ This project generates the following files and directories during execution:
 
 ---
 
-## 📈 Example Evaluation Output
+## Example Evaluation Output
 
 ```
 Epoch 20 - Loss: 0.3721 - Val AUROC: 0.768
